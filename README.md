@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chris Lloyd-Jones! You can find more about me [on my website](https://sealjay.com/).
+I'm Chris Lloyd-Jones! I'm the head of Open Technologies at Avanade, and a Microsoft MVP. I love Open Source, and I support it at OpenUK, and the Green Software Foundation. You can find more about me [on my website](https://sealjay.com/).
 
 - 🌱 I’m currently learning Go[![Go](https://img.shields.io/badge/--3178C6?logo=go&logoColor=ffffff)](https://go.dev/)!
 - 🔭 I’m currently working on Green Software, with the Green Software Foundation.
