@@ -1,19 +1,28 @@
 ### Hi there
 
-I'm Chris Lloyd-Jones! I'm the Vice President of AI Consulting Transformation at Kyndryl, a six-time Microsoft MVP in AI, and a Doctoral researcher in Green Software Engineering at UEL. I bridge AI transformation with enterprise governance, sustainability, and open source.
+I'm Chris Lloyd-Jones! I'm the Vice President of AI Consulting Transformation at Kyndryl, a six-time Microsoft MVP in AI, and a Data.D candidate in Data Science at the University of East London, researching Green AI. I bridge AI transformation with enterprise governance, sustainability, and open source.
 
 - I created and lead Kyndryl's Forward Deployed Engineering capability - engineers who build with clients, scaling to 22,000 engineers.
 - 🔭 I'm currently working on AI governance, explainability frameworks, and building AI maturity assessment tools.
 - 🌱 I'm researching sustainable LLMs and SLMs as part of my Doctoral research in Green AI.
 - 🔌 I'm building [MCP servers](#mcp-servers) that give AI assistants access to real-world communication and productivity tools.
-- I contributed to ISO/IEC 21031:2024 (Software Carbon Intensity) through the Green Software Foundation.
+- I contributed to ISO/IEC 21031:2024 (Software Carbon Intensity) through the [Green Software Foundation](https://greensoftware.foundation/), where I served as Steering Committee Vice-Chair.
 - ✍️ I write about [AI security, agent governance, and organisational transformation](https://sealjay.com/blog/).
 - 🎙️ I'm a co-host of [Securing the Realm](https://securing.quest/) - a D&D-inspired podcast on AI governance and AI-driven development.
-- I'm an [OpenUK Honours 2025/26](https://openuk.uk) recipient and lead the [OpenUK Data Centre Advisory Group](https://openuk.uk/datacentregroup/).
+- I'm an [OpenUK New Year's Honours 2025/26](https://openuk.uk/honours/) recipient and OpenUK Ambassador, and I lead the [OpenUK Data Centre Advisory Group](https://openuk.uk/datacentregroup/).
 - 📫 [Contact me on LinkedIn](https://linkedin.com/in/chrislloydjones/) to get in touch!
 - Pronouns: he/him
 
 // open, sustainable, real
+
+#### Recent writing
+
+- [Compliance Is Just Rules: The Company as a Codebase](https://sealjay.com/blog/compliance-is-just-rules/)
+- [Your AI Agents Need a Bouncer](https://sealjay.com/blog/str-your-ai-agents-need-a-bouncer/)
+- [AI Browser Automation with Microsoft Foundry and Browser Use](https://sealjay.com/blog/foundry-browser-use/)
+- [AI AppSec Is Still AppSec](https://sealjay.com/blog/str-ai-appsec-is-still-appsec/)
+
+More at [sealjay.com/blog](https://sealjay.com/blog/).
 
 Here are some of my public projects.
 
@@ -42,3 +51,4 @@ I build [Model Context Protocol](https://modelcontextprotocol.io/) servers that 
 - [![Docker](https://img.shields.io/badge/--3178C6?logo=docker&logoColor=ffffff)](https://www.docker.com/) [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/--3178C6?logo=python&logoColor=ffffff)](https://www.python.org/) [Distributed Data](https://github.com/Avanade/emtech-distributed-data) - Exploring SQL Ledger, Confidential Ledger and other technologies
 - [![Python](https://img.shields.io/badge/--3178C6?logo=python&logoColor=ffffff)](https://www.python.org/) [PyCognitiveSearch](https://github.com/Sealjay/py-cognitive-search) - Python SDK for Azure Cognitive Search
 - [![Python](https://img.shields.io/badge/--3178C6?logo=python&logoColor=ffffff)](https://www.python.org/) [![Power BI](https://custom-icon-badges.demolab.com/badge/-F2C811?logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/power-bi/?WT.mc_id=AI-MVP-5004204) [powerbi-adt](https://github.com/Sealjay/powerbi-adt) - Querying Azure Digital Twins with PowerBI ([blog post](https://www.sealjay.com/querying-azure-digital-twins-with-powerbi/))
+- [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [PolicyForge](https://devpost.com/software/policyforge-ai-automation-policy-simulator) - Autonomous agent monitoring AI regulations worldwide, simulating policy impacts, and generating implementation roadmaps (Gemini 3 hackathon)
